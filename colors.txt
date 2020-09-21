@@ -10,3 +10,6 @@ grey
 ####
 green
 gold
+silver
+
+git status
