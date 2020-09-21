@@ -12,4 +12,5 @@ green
 gold
 silver
 
-git status
+amber
+black coffee
