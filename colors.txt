@@ -9,5 +9,4 @@ grey
 
 ####
 green
-
-git status
+silver
